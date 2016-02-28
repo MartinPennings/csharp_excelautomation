@@ -75,7 +75,7 @@ namespace AutoExcel
                 workSheet.Application.ActiveWindow.SplitRow = 4;
                 workSheet.Application.ActiveWindow.FreezePanes = true;
 
-                workSheet.DoiShit();
+          
                 // Select the first cell
                 workSheet.Cells(1, 1).Select();
                 
