@@ -1,0 +1,7 @@
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\bin\Debug\AutoExcel.exe.config
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\bin\Debug\AutoExcel.exe
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\bin\Debug\AutoExcel.pdb
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\obj\Debug\AutoExcel.csprojResolveAssemblyReference.cache
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\obj\Debug\AutoExcel.exe
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\obj\Debug\AutoExcel.pdb
+D:\Github\AutomatingExcel\AutoExcel\AutoExcel\obj\Debug\AutoExcel.csproj.ResolveComReference.cache
