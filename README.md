@@ -1,5 +1,5 @@
 # csharp_excelautomation
 
-Code from the blog post http://www.chipstock.nl/?p=24
+Code from the blog post  http://www.devjockeys.com/blog
 
 Visual Studio 2015
